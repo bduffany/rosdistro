@@ -1971,6 +1971,7 @@ sbcl:
   gentoo:
     portage:
       packages: [dev-lisp/sbcl]
+  opensuse: [sbcl]
   ubuntu: [sbcl]
 scons:
   arch: [scons]

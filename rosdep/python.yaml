@@ -59,6 +59,7 @@ python-bluez:
 python-catkin-pkg:
   debian: [python-catkin-pkg]
   fedora: [python-catkin_pkg]
+  opensuse: [python-catkin_pkg]
   osx:
     pip:
       packages: [catkin-pkg]
@@ -177,6 +178,7 @@ python-netifaces:
   arch: [python2-netifaces]
   debian: [python-netifaces]
   fedora: [python-netifaces]
+  opensuse: [python-netifaces]
   ubuntu: [python-netifaces]
 python-networkx:
   ubuntu: [python-networkx]
@@ -342,6 +344,7 @@ python-redis:
 python-rosdep:
   debian: [python-rosdep]
   fedora: [python-rosdep]
+  opensuse: [python-rosdep]
   osx:
     pip:
       packages: [rosdep]
@@ -354,6 +357,7 @@ python-rosinstall-generator:
 python-rospkg:
   debian: [python-rospkg]
   fedora: [python-rospkg]
+  opensuse: [python-rospkg]
   ubuntu: [python-rospkg]
 python-scapy:
   debian: [python-scapy]
