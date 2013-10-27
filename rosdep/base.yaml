@@ -619,7 +619,7 @@ gtest:
   freebsd: [googletest]
   gentoo: [dev-cpp/gtest]
   macports: [google-test]
-  opensuse: [googletest]
+  opensuse: [googletest-devel]
   rhel: [gtest-devel]
   ubuntu: [libgtest-dev]
 gtk-doc-tools:
